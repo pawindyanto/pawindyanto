@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Danang Pawindyanto</h1>
 <h3 align="center">A Passionate Full Stack Developer From Indonesia</h3>
-<img align="right" alt="#" width="400" src="#">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawindyanto&label=Profile%20views&color=0e75b6&style=flat" alt="pawindyanto" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pawindyanto" target="blank"><img src="https://img.shields.io/twitter/follow/pawindyanto?logo=twitter&style=for-the-badge" alt="pawindyanto" /></a> </p>
