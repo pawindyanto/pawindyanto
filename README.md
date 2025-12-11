@@ -1,35 +1,102 @@
-<h1 align="center">Hi 👋, I'm Aditya Danang Pawindyanto</h1>
-<h3 align="center">A Passionate Full Stack Developer From Indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Aditya+Danang;A+Passionate+Full+Stack+Developer;Civil+Servant+%26+Tech+Writer;Welcome+to+My+Profile!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pawindyanto&label=Profile%20views&color=0e75b6&style=flat" alt="pawindyanto" /> </p>
+<div align="center">
+  <h3>🚀 From Indonesia to the World</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=pawindyanto&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pawindyanto" />
+  
+  <br><br>
 
-<p align="left"> <a href="https://twitter.com/pawindyanto" target="blank"><img src="https://img.shields.io/twitter/follow/pawindyanto?logo=twitter&style=for-the-badge" alt="pawindyanto" /></a> </p>
+  <a href="https://twitter.com/pawindyanto" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/aditya-danang-pawindyanto" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/pawindyanto" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://stackoverflow.com/users/pawindyanto" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/>
+  </a>
+  <a href="mailto:dailyinnovatetech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working as  **Civil Servant**
+<hr/>
 
-- 🌱 I’m currently learning **Codeigniter and React JS**
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="60%">
+      <h2>⚡ About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working as a <b>Civil Servant</b> & <b>Dev</b>.</li>
+        <li>🌱 I’m currently exploring <b>CodeIgniter 4 & React JS</b>.</li>
+        <li>📝 I write tech articles at <a href="https://www.dailyinnovatetech.com/"><b>Daily Innovate Tech</b></a>.</li>
+        <li>💬 Ask me about <b>PHP & Web Architecture</b>.</li>
+        <li>⚡ Fun fact: <b>I think I am Funny (LoL)</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Coding Man" width="180" />
+    </td>
+  </tr>
+</table>
 
-- 📝 I regularly write articles on [https://www.dailyinnovatetech.com/](https://www.dailyinnovatetech.com/)
+<hr/>
 
-- 💬 Ask me about **PHP**
+<h2 align="center">🛠️ Languages & Tools</h2>
+<div align="center">
+  
+  <p><b>Languages</b></p>
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  
+  <br>
 
-- 📫 How to reach me **dailyinnovatetech@gmail.com**
+  <p><b>Frontend</b></p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 
-- ⚡ Fun fact **I think I am Funny** LoL
+  <br>
+  
+  <p><b>Backend & Infrastructure</b></p>
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pawindyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawindyanto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-danang-pawindyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya danang pawindyanto" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pawindyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pawindyanto" height="30" width="40" /></a>
-<a href="https://instagram.com/pawindyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawindyanto" height="30" width="40" /></a>
-</p>
+  <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+  <p><b>Design</b></p>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawindyanto&show_icons=true&locale=en&layout=compact" alt="pawindyanto" /></p>
 <br>
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=pawindyanto&show_icons=true&locale=en" alt="pawindyanto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawindyanto&" alt="pawindyanto" /></p>
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawindyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawindyanto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto" height="160" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawindyanto&theme=tokyonight&hide_border=true&background=0D1117" alt="pawindyanto" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
