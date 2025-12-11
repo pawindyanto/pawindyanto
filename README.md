@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Codeigniter and React JS**
 
-- 📝 I regularly write articles on [https://codewithdanang.com/](https://codewithdanang.com/)
+- 📝 I regularly write articles on [https://www.dailyinnovatetech.com/](https://www.dailyinnovatetech.com/)
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **pawindyanto@gmail.com**
+- 📫 How to reach me **dailyinnovatetech@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Funny** LoL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
