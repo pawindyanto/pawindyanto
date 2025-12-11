@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pawindyanto" target="blank"><img src="https://img.shields.io/twitter/follow/pawindyanto?logo=twitter&style=for-the-badge" alt="pawindyanto" /></a> </p>
 
-- 🔭 I’m currently working on **<a target="_blank" href="#">Badan Pengawas Pemilhian Umum Kabupaten Ponorogo</a>**
+- 🔭 I’m currently working as  **Civil Servant**
 
 - 🌱 I’m currently learning **Codeigniter and React JS**
 
