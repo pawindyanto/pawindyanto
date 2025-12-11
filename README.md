@@ -64,39 +64,32 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-
+  
   <br>
   
   <p><b>Backend & Infrastructure</b></p>
   <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-
-  <br>
-
-  <p><b>Design</b></p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
 </div>
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawindyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawindyanto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto languages" height="160" />
-</div>
-
-<br>
+<h2 align="center">🏆 Achievements & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawindyanto&theme=tokyonight&hide_border=true&background=0D1117" alt="pawindyanto streak" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pawindyanto&theme=flat&no-frame=true&column=7&margin-w=15" alt="pawindyanto trophies" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawindyanto&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </div>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
