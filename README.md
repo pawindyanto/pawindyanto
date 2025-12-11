@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Aditya+Danang;A+Passionate+Full+Stack+Developer;Civil+Servant+%26+Tech+Writer;Welcome+to+My+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Aditya+Danang;A+Passionate+Full+Stack+Developer;Civil+Servant+%26+Tech+Writer;Welcome+to+My+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,17 +30,17 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h2>⚡ About Me</h2>
       <ul>
-        <li>🔭 I’m currently working as a <b>Civil Servant</b> & <b>Dev</b>.</li>
+        <li>🔭 I’m currently working as a <b>Civil Servant</b> & <b>Developer</b>.</li>
         <li>🌱 I’m currently exploring <b>CodeIgniter 4 & React JS</b>.</li>
         <li>📝 I write tech articles at <a href="https://www.dailyinnovatetech.com/"><b>Daily Innovate Tech</b></a>.</li>
         <li>💬 Ask me about <b>PHP & Web Architecture</b>.</li>
         <li>⚡ Fun fact: <b>I think I am Funny (LoL)</b>.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
+    <td width="35%" align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Coding Man" width="180" />
     </td>
   </tr>
@@ -85,14 +85,14 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawindyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawindyanto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawindyanto&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pawindyanto&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="pawindyanto languages" height="160" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawindyanto&theme=tokyonight&hide_border=true&background=0D1117" alt="pawindyanto" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawindyanto&theme=tokyonight&hide_border=true&background=0D1117" alt="pawindyanto streak" />
 </div>
 
 <br>
